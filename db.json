@@ -4,13 +4,13 @@
 	"id" : 1,
 	"firstName" : "John",
 	"lastName" : "Doe",
-	"lastPulse" : 92
+	"pulse" : [ 92, 87, 78, 99, 102]
     },
     {
 	"id" : 2,
 	"firstName" : "Natasha",
 	"lastName" : "Romanov",
-	"lastPulse" : 68
+	"pulse" : [ 68, 62, 71, 73, 66, 65]
     }
   ]
 }
