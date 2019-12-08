@@ -3,13 +3,13 @@
     {
 	"id" : 1,
 	"firstName" : "John",
-	"lastName" : "Doe"
+	"lastName" : "Doe",
 	"lastPulse" : 92
     },
     {
 	"id" : 2,
 	"firstName" : "Natasha",
-	"lastName" : "Romanov"
+	"lastName" : "Romanov",
 	"lastPulse" : 68
     }
   ]
