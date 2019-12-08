@@ -4,7 +4,6 @@
 	"id" : 1,
 	"firstName" : "John",
 	"lastName" : "Doe",
-	"pulse" : [ 92, 87, 78, 99, 102]
     },
     {
 	"id" : 2,
@@ -12,5 +11,32 @@
 	"lastName" : "Romanov",
 	"pulse" : [ 68, 62, 71, 73, 66, 65]
     }
+  ],
+  "pulse" :
+  [
+      {
+	  "id" : 1,
+	  "patientId" : 1,
+	  "pulse" : 92,
+	  "date" : "2019-12-01"
+      },
+      {
+	  "id" : 2,
+	  "patientId" : 1,
+	  "pulse" : 88,
+	  "date" : "2019-12-02"
+      },
+      {
+	  "id" : 3,
+	  "patientId" : 2,
+	  "pulse" : 67,
+	  "date" : "2019-12-05"
+      },
+      {
+	  "id" : 4,
+	  "patientId" : 2,
+	  "pulse" : 62,
+	  "date" : "2019-12-06"
+      },
   ]
 }
